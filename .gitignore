@@ -5,4 +5,7 @@
 *.pkl
 *.npz
 *.npy
-venv/
+venv
+.ipynb_checkpoints
+__pycache__
+.vscode
