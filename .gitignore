@@ -6,6 +6,7 @@
 *.npz
 *.npy
 venv
+data
 .ipynb_checkpoints
 __pycache__
 .vscode
